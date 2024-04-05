@@ -159,7 +159,7 @@ Además de las recomendaciones anteriores, se sugiere:
 
 [www.youtube.com/video 2](https://youtu.be/zkiyy9wwJ4c?si=Rp9TzyZEldU1ivii)
 
-## Conclusión
+## Observaciones
 
 El proyecto de simulación de un laboratorio de metrología en RecRoom representa una emocionante oportunidad para explorar las posibilidades de la realidad virtual en el ámbito educativo. A lo largo de este proceso, se ha realizado un progreso significativo, pero también se han enfrentado desafíos importantes.
 
